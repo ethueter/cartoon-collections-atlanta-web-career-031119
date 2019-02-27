@@ -17,6 +17,6 @@ def find_the_cheese(list)
 end
   if "true"
     cheese_types.collect do |cheese|
-  "#{list.find("#{cheese}")}"
+   "#{list.find("#{cheese}")}"
   end
-end 
+
