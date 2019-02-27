@@ -17,7 +17,6 @@ def find_the_cheese(list)
 end
   if "true"
     list.find(#{cheese})
-  else
-    nil 
+     
   end
 end 
