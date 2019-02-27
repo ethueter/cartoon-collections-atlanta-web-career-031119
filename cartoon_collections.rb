@@ -15,4 +15,4 @@ def find_the_cheese(list)
   cheese_types.collect do |cheese|
   "#{list.include?("#{cheese}")}"
 end
-
+end 
