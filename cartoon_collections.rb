@@ -16,7 +16,6 @@ def find_the_cheese(list)
   "#{list.include?("#{cheese}")}"
 end
   if "true"
-    list.find(#{cheese})
-     
+    list.find("#{cheese}")
   end
 end 
